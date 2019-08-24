@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+    background: #f3f0f0; }
+    a {
+        text-decoration: none;
+     }
+        a:hover {
+          text-decoration: none; }
+      
+      ul {
+        list-style: none; }
+ 
+
+    .market-header {
+        background: white;;
+        position: relative;
+        z-index: 9999;
+        padding: 20px 0px;
+     }
+      .fixed-header {
+        position: fixed;
+        top: 0;
+        background: #000;
+        width: 100%;
+        padding-top: 10px;
+        padding-bottom: 15px;
+     }
+    
+      .market-header .navbar-inverse {
+        background-color: transparent;
+        border-color: transparent; }    
+      .market-header.navbar
+       {
+        margin: 0px;
+        padding: 0px; }       
+       .menu-a {
+            font-weight: 700;
+            color: #666666; }
+
+            .menu .navbar-inverse .navbar-nav > li > a {
+                padding: 21px 23px;
+                border-bottom: 1px solid #aebcc3; }
+
+  .about h1{
+      margin-left: 50px;
+      margin-top: 25px;
+  }   
+  .about img{
+      width: 131px;
+      margin-left: 20px;
+  }
+  .about .market img{
+      width: 400px;
+  }

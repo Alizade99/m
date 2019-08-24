@@ -1,0 +1,45 @@
+.brand img{
+height: 350px;
+margin: 20px
+}
+.button, .btn {
+    background: #555;
+    color: #fff;
+    border-radius: 25px;
+    background: #ff5c00;
+    font-size: 17px;
+    width: 125px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+.property .icofont-cart {
+    background: #ff0707;
+    color: #fff;
+    border-radius: 26px;
+    font-size: 24px;
+    height: 43px;
+    width: 43px;
+    text-align: center;
+    line-height: 37px;
+    transition: .4s;
+    padding-top: 4px;
+    margin-left: 5px;
+}
+            .property .icofont-cart:hover {         
+              transform: rotate(-360deg);
+              color: black;
+             }
+             .property p{
+                color: #ff5c00;
+                font-size: 25px;
+                font-weight: 700;
+             }
+             .property h2{
+                padding-top: 40px;
+                color: #222;
+                font-weight: bold;
+                text-transform: capitalize;
+                margin-bottom: 15px;
+             }
+
+   

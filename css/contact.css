@@ -1,0 +1,57 @@
+a {
+    text-decoration: none;
+ }
+    .market-header {
+        background: white;;
+        position: relative;
+        z-index: 9999;
+        padding: 20px 0px;
+     }
+      
+      .fixed-header {
+        position: fixed;
+        top: 0;
+        background: #000;
+        width: 100%;
+        padding-top: 10px;
+        padding-bottom: 15px;
+     }
+      
+      .market-header .navbar-inverse {
+        background-color: transparent;
+        border-color: transparent; }
+      
+      .market-header.navbar
+       {
+        margin: 0px;
+        padding: 0px; }
+        
+        .menu-a {
+            font-weight: 700;
+            color: #666666; }
+
+            .menu .navbar-inverse .navbar-nav > li > a {
+                padding: 21px 23px;
+                border-bottom: 1px solid #aebcc3; }
+
+#Contact {
+    padding: 50px 0;
+  }
+  #Contact .emailcolor {
+    color: #107c53;
+    font-weight: bold;
+  }
+  #Contact .quiz-info {
+    background: rgba(202, 202, 202, 0.432);
+  }
+  #Contact .question-btn{
+    background: #107c53;
+    margin-left: 410px;
+    color: #272424;
+    height: 43px;
+    width: 130px;
+    
+  }
+  #Contact .question-btn h6{
+      margin-top: 5px;
+  }
